@@ -1,0 +1,11 @@
+*.ico 
+*.slnx 
+*.aps 
+*.vs 
+*.rc 
+*.dll 
+*.vcxproj 
+*.vcxproj.* 
+*test_proj 
+*x64
+*.h
